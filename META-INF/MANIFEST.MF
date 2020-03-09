@@ -5,3 +5,4 @@ Bundle-SymbolicName: org.jcryptool.thirdparty
 Bundle-Version: 0.0.1.qualifier
 Automatic-Module-Name: org.jcryptool.thirdparty
 Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-Vendor: org.jcryptool, by Simon Leischnig
